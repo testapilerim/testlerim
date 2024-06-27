@@ -1,0 +1,6 @@
+{
+  "EnDusukKargoDesiFiyati": {
+    "KargoFirmaAdi": 2,
+    "Fiyat": 83.0
+  }
+}
