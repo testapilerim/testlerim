@@ -1,6 +1,6 @@
 {
   "EnDusukKargoDesiFiyati": {
     "KargoBaremi": 750.0,
-    "Fiyat": 83.0
+    "Fiyat": 91.0
   }
 }
